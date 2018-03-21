@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/splash/splash1.jpg"  ]
+[preload  storage="./data/bgimage/splash/splash2.jpg"  ]
+[preload  storage="./data/bgimage/splash/splash3.jpg"  ]
+[preload  storage="./data/bgimage/menu.jpg"  ]
+[return]
