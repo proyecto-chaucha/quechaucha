@@ -55,7 +55,7 @@
 ;mt=16
 ;mw=960-32
 ;mh=640-32
-;debugMenu.visible=true
+;debugMenu.visible=false
 ;frameColor=0x000000
 ;frameOpacity=128
 ;defaultAutoReturn=true

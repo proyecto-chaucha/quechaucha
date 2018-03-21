@@ -350,7 +350,7 @@ Pregunta #[emb exp="f.answered + 1"].[r]
 [_tb_end_text]
 
 [chara_hide  name="don_chaucha"  time="1000"  wait="true"  pos_mode="true"  ]
-[glink  color="white"  storage="questions.ks"  size="20"  target="*wrongAnswer"  text="La&nbsp;red&nbsp;es&nbsp;menos&nbsp;segura.&nbsp;<br>Ya&nbsp;que&nbsp;eso&nbsp;aumentaría&nbsp;el&nbsp;nivel&nbsp;de&nbsp;dificultad..."  x="178"  y="19"  width="500"  height=""  _clickable_img=""  ]
+[glink  color="white"  storage="questions.ks"  size="20"  target="*wrongAnswer"  text="La&nbsp;red&nbsp;es&nbsp;menos&nbsp;segura.&nbsp;<br>Ya&nbsp;que&nbsp;eso&nbsp;aumentaría&nbsp;el&nbsp;nivel&nbsp;de&nbsp;dificultad."  x="178"  y="19"  width="500"  height=""  _clickable_img=""  ]
 [glink  color="white"  storage="questions.ks"  size="20"  target="*wrongAnswer"  text="Por&nbsp;que&nbsp;aumenta&nbsp;la&nbsp;redundancia&nbsp;de&nbsp;datos&nbsp;<br>al&nbsp;distribuir&nbsp;la&nbsp;carga&nbsp;en&nbsp;varios&nbsp;computadores."  x="177"  y="100"  width="500"  height=""  _clickable_img=""  ]
 [glink  color="white"  storage="questions.ks"  size="20"  target="*correctAnswer"  text="Por&nbsp;que&nbsp;aumenta&nbsp;el&nbsp;costo&nbsp;necesario&nbsp;<br>para&nbsp;alcanzar&nbsp;sobre&nbsp;el&nbsp;50%&nbsp;del&nbsp;poder&nbsp;de&nbsp;procesamiento."  x="178"  y="179"  width="500"  height=""  _clickable_img=""  ]
 [glink  color="white"  storage="questions.ks"  size="20"  text="Por&nbsp;que&nbsp;a&nbsp;mayor&nbsp;poder&nbsp;de&nbsp;procesamiento,&nbsp;<br>más&nbsp;chauchas&nbsp;entran&nbsp;al&nbsp;mercado&nbsp;lo&nbsp;que&nbsp;<br>reduce&nbsp;su&nbsp;poder&nbsp;adquisitivo."  target="*wrongAnswer"  x="178"  y="260"  width="500"  height=""  _clickable_img=""  ]
