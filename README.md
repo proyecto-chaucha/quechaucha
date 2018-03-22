@@ -13,7 +13,7 @@ El contenido se irá actualizando poco a poco.
 Responde *10* preguntas correctas y obtendrás una pista
 para descubrir las *12* palabras.
 
-[https://proyecto-chaucha.github.io/quechaucha/])(https://proyecto-chaucha.github.io/quechaucha/)
+[https://proyecto-chaucha.github.io/quechaucha/](https://proyecto-chaucha.github.io/quechaucha/)
 
 ## Concurso
 
