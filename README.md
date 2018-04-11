@@ -15,7 +15,7 @@ para descubrir las *12* palabras.
 
 [https://proyecto-chaucha.github.io/quechaucha/](https://proyecto-chaucha.github.io/quechaucha/)
 
-## Concurso
+## Concurso (Finalizado)
 
 El primero en adivinar las *12* palabras podrá
 desbloquear el archivo *wallet.dat* y ganar *100* CHA.
